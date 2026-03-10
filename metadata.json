@@ -1,0 +1,5 @@
+{
+  "name": "Ovabusters AI",
+  "description": "AI-powered ovarian cancer screening through daily voice analysis and symptom tracking.",
+  "requestFramePermissions": ["microphone"]
+}
